@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "58pzTnDuRKI54/Vmct1q48pN555QTgOig5r8SOcEMRDruZWWUCgIyNEPCoEJEFtjoFx9uP/LfOP5t76gYieezQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\EY.FileMimeTypeControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elif.yildirim\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\elif.yildirim\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\elif.yildirim\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

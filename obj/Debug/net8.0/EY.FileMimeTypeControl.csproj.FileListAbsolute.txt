@@ -1,0 +1,5 @@
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.AssemblyInfoInputs.cache
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.AssemblyInfo.cs
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.csproj.CoreCompileInputs.cache
