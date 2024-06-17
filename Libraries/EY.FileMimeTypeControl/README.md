@@ -1,14 +1,13 @@
 # File Mime Type Control NuGet Package
 
-Bu paket ile requestten aldýðýnýz **IFormFile** dosyalarýný jpeg ve png için type kontrolüne tabi tutabilirsiniz.
-Kontrolü byte üzerinden yapar ve eðer baþarýsýz olursa **false** dönüþü yapýlýr.
+With this package, you can type-check **IFormFile** files for jpeg and png.
+It checks bytes and if it fails, a **false** loop is made.
 
 
 ## Usage
 ```csharp
-bool checkFileForJpeg = file.CheckForJpeg(); // baþarýsýz ise false döner
-bool checkFileForPng = file.CheckForPng();  //  baþarýsýz ise false döner.
-```
+bool checkFileForJpeg = file.CheckForJpeg(); // Returns false if unsuccessful
+bool checkFileForPng = file.CheckForPng();  //  Returns false if unsuccessful
 
 ## Resource Code
 ```csharp

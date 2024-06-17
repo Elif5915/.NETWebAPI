@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EY.FileMimeTypeControl</id>
+    <version>1.0.0</version>
+    <authors>Elif Yıldırım</authors>
+    <readme>README.md</readme>
+    <description>Bu paket ile dosyalarınızın type kontrolünü kolayca yapabilirsiniz.</description>
+    <repository type="git" url="https://github.com/Elif5915/.NETWebAPI" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Http.Features" version="5.0.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\bin\Debug\net8.0\EY.FileMimeTypeControl.dll" target="lib\net8.0\EY.FileMimeTypeControl.dll" />
+    <file src="C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\README.md" target="\README.md" />
+  </files>
+</package>

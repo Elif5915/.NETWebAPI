@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A17F4C-503D-4A93-BE22-50F43504AA47}|EY.FileMimeTypeControl.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\libraries\\ey.filemimetypecontrol\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A17F4C-503D-4A93-BE22-50F43504AA47}|EY.FileMimeTypeControl.csproj|solutionrelative:extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A17F4C-503D-4A93-BE22-50F43504AA47}|EY.FileMimeTypeControl.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\libraries\\ey.filemimetypecontrol\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A4A17F4C-503D-4A93-BE22-50F43504AA47}|EY.FileMimeTypeControl.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A17F4C-503D-4A93-BE22-50F43504AA47}|EY.FileMimeTypeControl.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\libraries\\ey.filemimetypecontrol\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4A17F4C-503D-4A93-BE22-50F43504AA47}|EY.FileMimeTypeControl.csproj|solutionrelative:license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A17F4C-503D-4A93-BE22-50F43504AA47}|EY.FileMimeTypeControl.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\libraries\\ey.filemimetypecontrol\\ey.filemimetypecontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A4A17F4C-503D-4A93-BE22-50F43504AA47}|EY.FileMimeTypeControl.csproj|solutionrelative:ey.filemimetypecontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EY.FileMimeTypeControl",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\EY.FileMimeTypeControl.csproj",
+              "RelativeDocumentMoniker": "EY.FileMimeTypeControl.csproj",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\EY.FileMimeTypeControl.csproj",
+              "RelativeToolTip": "EY.FileMimeTypeControl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T12:00:21.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\LICENSE.txt",
+              "RelativeDocumentMoniker": "LICENSE.txt",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\LICENSE.txt",
+              "RelativeToolTip": "LICENSE.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-17T11:58:39.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-17T11:48:28.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Libraries\\EY.FileMimeTypeControl\\ExtensionMethods.cs",
+              "RelativeToolTip": "ExtensionMethods.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:39:44.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.AssemblyInfoInputs.cache
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.AssemblyInfo.cs
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\bin\Debug\net8.0\EY.FileMimeTypeControl.deps.json
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\bin\Debug\net8.0\EY.FileMimeTypeControl.dll
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\bin\Debug\net8.0\EY.FileMimeTypeControl.pdb
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.dll
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\refint\EY.FileMimeTypeControl.dll
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\EY.FileMimeTypeControl.pdb
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\Libraries\EY.FileMimeTypeControl\obj\Debug\net8.0\ref\EY.FileMimeTypeControl.dll
