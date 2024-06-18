@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DependencyInjection.WepAPI",
+    "\\DependencyInjection.WepAPI\\Controllers"
+  ],
+  "SelectedNode": "\\DependencyInjection.WepAPI\\Controllers\\InterfaceTestController1.cs",
+  "PreviewInSolutionExplorer": false
+}

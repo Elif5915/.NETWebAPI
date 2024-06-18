@@ -1,0 +1,6 @@
+@DependencyInjection.WepAPI_HostAddress = http://localhost:5240
+
+GET {{DependencyInjection.WepAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

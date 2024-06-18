@@ -1,0 +1,7 @@
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\DependencyInjection\DependencyInjection.WepAPI\obj\Debug\net8.0\DependencyInjection.WepAPI.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\DependencyInjection\DependencyInjection.WepAPI\obj\Debug\net8.0\DependencyInjection.WepAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\DependencyInjection\DependencyInjection.WepAPI\obj\Debug\net8.0\DependencyInjection.WepAPI.AssemblyInfoInputs.cache
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\DependencyInjection\DependencyInjection.WepAPI\obj\Debug\net8.0\DependencyInjection.WepAPI.AssemblyInfo.cs
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\DependencyInjection\DependencyInjection.WepAPI\obj\Debug\net8.0\DependencyInjection.WepAPI.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\DependencyInjection\DependencyInjection.WepAPI\obj\Debug\net8.0\DependencyInjection.WepAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elif.yildirim\TS_WepAPIBootcamp\DependencyInjection\DependencyInjection.WepAPI\obj\Debug\net8.0\DependencyInjection.WepAPI.MvcApplicationPartsAssemblyInfo.cache
