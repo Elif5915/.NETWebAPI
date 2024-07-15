@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Pt+u+8lMZJwnL+lTcGIgzXTNbCDRL3Chk+2uRsFnI8Q=",
+  "Source": "ShopZon.WebAPI",
+  "BasePath": "_content/ShopZon.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShopZon.WebAPI\\wwwroot",
+      "Source": "ShopZon.WebAPI",
+      "ContentRoot": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\ShopZon.WebAPI\\ShopZon.WebAPI\\wwwroot\\",
+      "BasePath": "_content/ShopZon.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
