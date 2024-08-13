@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\1.PNG",
+      "PackagePath": "staticwebassets\\1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\9605_3.png",
+      "PackagePath": "staticwebassets\\9605_3.png"
+    },
+    {
+      "Id": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\9755.png",
+      "PackagePath": "staticwebassets\\9755.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.First.WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.First.WEBAPI.props",
+      "PackagePath": "build\\First.WEBAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.First.WEBAPI.props",
+      "PackagePath": "buildMultiTargeting\\First.WEBAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.First.WEBAPI.props",
+      "PackagePath": "buildTransitive\\First.WEBAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "akFl0rFNdMjIeotproKeKcIst9xZMI4oqIKobFkb6lc=",
+  "Source": "First.WEBAPI",
+  "BasePath": "_content/First.WEBAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "First.WEBAPI\\wwwroot",
+      "Source": "First.WEBAPI",
+      "ContentRoot": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\",
+      "BasePath": "_content/First.WEBAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\1.PNG",
+      "SourceId": "First.WEBAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\",
+      "BasePath": "_content/First.WEBAPI",
+      "RelativePath": "1.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\9605_3.png",
+      "SourceId": "First.WEBAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\",
+      "BasePath": "_content/First.WEBAPI",
+      "RelativePath": "9605_3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\9605_3.png"
+    },
+    {
+      "Identity": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\9755.png",
+      "SourceId": "First.WEBAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\First.WEBAPI\\wwwroot\\",
+      "BasePath": "_content/First.WEBAPI",
+      "RelativePath": "9755.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\9755.png"
+    }
+  ]
+}

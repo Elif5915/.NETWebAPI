@@ -1,0 +1,7 @@
+@First.WEBAPI_HostAddress = http://localhost:5005
+
+GET {{First.WEBAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+// swagger ýn kod içindeki hali gibi send requestte bastýðýnda yanda response penceresi çýkar.
