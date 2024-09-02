@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\middleware.wepapi\\middleware.wepapi\\controllers\\productscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|solutionrelative:middleware.wepapi\\controllers\\productscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\middleware.wepapi\\middleware.wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|solutionrelative:middleware.wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\middleware.wepapi\\middleware.wepapi\\filters\\logattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|solutionrelative:middleware.wepapi\\filters\\logattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\middleware.wepapi\\middleware.wepapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|solutionrelative:middleware.wepapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\middleware.wepapi\\middleware.wepapi\\middleware.wepapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|solutionrelative:middleware.wepapi\\middleware.wepapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|c:\\users\\elif.yildirim\\ts_wepapibootcamp\\middleware.wepapi\\middleware.wepapi\\middlewares\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B48E7CF-ABCE-4C67-9546-0E66B6501B74}|Middleware.WepAPI\\Middleware.WepAPI.csproj|solutionrelative:middleware.wepapi\\middlewares\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController1.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Controllers\\ProductsController1.cs",
+              "RelativeDocumentMoniker": "Middleware.WepAPI\\Controllers\\ProductsController1.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Controllers\\ProductsController1.cs",
+              "RelativeToolTip": "Middleware.WepAPI\\Controllers\\ProductsController1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:20:00.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Middleware.WepAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Middleware.WepAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:46:33.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Filters\\LogAttribute.cs",
+              "RelativeDocumentMoniker": "Middleware.WepAPI\\Filters\\LogAttribute.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Filters\\LogAttribute.cs",
+              "RelativeToolTip": "Middleware.WepAPI\\Filters\\LogAttribute.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:37:58.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Middleware.WepAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Program.cs",
+              "RelativeToolTip": "Middleware.WepAPI\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:35:28.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Middlewares\\LogMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware.WepAPI\\Middlewares\\LogMiddleware.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Middlewares\\LogMiddleware.cs",
+              "RelativeToolTip": "Middleware.WepAPI\\Middlewares\\LogMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:29:53.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Middleware.WepAPI",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Middleware.WepAPI.csproj",
+              "RelativeDocumentMoniker": "Middleware.WepAPI\\Middleware.WepAPI.csproj",
+              "ToolTip": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\Middleware.WepAPI\\Middleware.WepAPI\\Middleware.WepAPI.csproj",
+              "RelativeToolTip": "Middleware.WepAPI\\Middleware.WepAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T06:29:07.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@Middleware.WepAPI_HostAddress = http://localhost:5211
+
+GET {{Middleware.WepAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

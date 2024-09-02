@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dOBf9VGxpEb5OBmdItjKY2tnAFD8St501+QaZIMS0ho=",
+  "Source": "Middleware.WepAPI",
+  "BasePath": "_content/Middleware.WepAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
