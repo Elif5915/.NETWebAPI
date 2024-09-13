@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "BgzWm4Bui0B0g4BmXX+OkRUpxKxc8INencAgZDWHIuo=",
+  "Source": "eCommerceHomeworkAPI",
+  "BasePath": "_content/eCommerceHomeworkAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "eCommerceHomeworkAPI\\wwwroot",
+      "Source": "eCommerceHomeworkAPI",
+      "ContentRoot": "C:\\Users\\elif.yildirim\\TS_WepAPIBootcamp\\eCommerceHomeworkAPI\\wwwroot\\",
+      "BasePath": "_content/eCommerceHomeworkAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
